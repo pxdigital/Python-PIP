@@ -7,3 +7,5 @@ Y = [ x * 2 for x in X]
 
 print(Y)
 
+# pypi Esto nos habla de como instalar los paquetes de python
+

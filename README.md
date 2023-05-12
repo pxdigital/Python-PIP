@@ -7,3 +7,7 @@ Esto lo debes ejecutar en la terminar
 cd  hello
 python3 hello.py
 ´´´
+
+
+
+
